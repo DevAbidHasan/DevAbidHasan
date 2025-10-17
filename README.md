@@ -1,5 +1,6 @@
-# 💫 About Plabon
-#### ✅ This is Plabon, currently learning MERN stack web development.
+#  Hey, This is [Plabon](https://devplabon.netlify.app/)
+
+
 
 
 ## 🌐 Socials :
