@@ -1,4 +1,5 @@
 #  Hey, This is [Plabon](https://plabon.netlify.app/)
+<img width="1584" height="396" alt="Navy   Blue Gradient Personal LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/2f223374-6819-4392-86e3-165b2e1d60db" />
 
 
 
