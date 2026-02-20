@@ -42,7 +42,7 @@
    ![](https://nirzak-streak-stats.vercel.app/?user=DevAbidHasan&theme=github_dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=DevAbidHasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbidHasan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### ✅💡 I am looking forward to collaborate on some opensource react projects. Feel free to contact.
+#### ✅💡 I am looking forward to collaborate on some open source react projects. Feel free to contact.
 
 
 
