@@ -5,7 +5,6 @@
 
 <br/>
 
-# Md Abid Hasan Plabon
 
 ### Full-Stack Developer · MERN · Next.js · Nest.js
 
@@ -35,8 +34,6 @@ I'm **Md Abid Hasan Plabon**, a full-stack developer and Computer Science studen
 
 I work primarily with the **MERN stack**, and I'm also experienced with **Next.js**, **Nest.js**, and both **MongoDB** and **PostgreSQL**. I'm always looking to learn, ship meaningful projects, and collaborate on open-source work.
 
-- 🔭 Currently exploring modern full-stack patterns with React, Node.js, and cloud deployment
-- 🌱 Focused on writing clean, maintainable code and improving system design skills
 - 🤝 Open to collaborating on **React** and **open-source** projects
 - 📫 Reach me at **abidhasanplabon80@gmail.com**
 
@@ -128,6 +125,3 @@ I'm always happy to connect with fellow developers, discuss project ideas, or ex
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevAbidHasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
